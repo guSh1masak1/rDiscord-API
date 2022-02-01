@@ -1,7 +1,7 @@
 function Home() {
     return(
         <div>
-            <h1>Home</h1>
+            <h1>Goto to /api/tempo</h1>
         </div>
         
     )
